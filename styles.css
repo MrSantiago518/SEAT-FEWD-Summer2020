@@ -4,5 +4,6 @@ body {
 }
 
 header {
-    border: 1px grey;
+    border: dashed 1px grey;
+
 }
