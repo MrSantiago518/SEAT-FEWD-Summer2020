@@ -3,12 +3,6 @@ body {
     margin: 0;
 }
 
-<<<<<<< HEAD
-header {
-    border: dashed 1px grey;
-
-}
-=======
 header, .intro, .articles, .img-gallery {
   border-bottom: 1px solid rgb(223, 210, 210);
   box-shadow: 0 8px 10px rgb(218, 211, 211);
@@ -66,4 +60,14 @@ header, .intro, .articles, .img-gallery {
 
 .article p {
 }
->>>>>>> 58b5cbbda917cb8a633179dab37a37ee8260b192
+
+.img-gallery {
+  width: 80%;
+  margin 0 auto;
+}
+img{
+  border: 3px solid black;
+}
+.img-wrapper {
+  
+}
