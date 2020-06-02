@@ -81,4 +81,9 @@ img {
   width: 300px;
   margin: 10px
 }
+:hover{
+  color: aqua;
+  background-color: black;
+}
 
+.social
