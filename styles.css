@@ -1,5 +1,8 @@
 body { background-color: rgb(50, 50, 50);
 
+ 
+
+
 
 }
 *
@@ -142,8 +145,15 @@ background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
 margin-bottom: 50px;
-box-shadow: 0 5px  12px  rgb(15, 7, 7);
+box-shadow: 0 5px  12px  rgb(15, 7, 7);}
 
-
-
+.test-image {
+background-image: url(https://res.cloudinary.com/sagacity/image/upload/c_crop,h_3877,w_5815,x_0,y_0/c_limit,dpr_3.0,f_auto,fl_lossy,q_80,w_500/0218-farmers-market-opener_uhvjbu.jpg);
+background-position: center;
+height: 100px;
+background-size: 200px;
+background-repeat:every 2;
 }
+
+
+
